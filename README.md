@@ -29,12 +29,12 @@ Python is used for data cleaning and processing raw data.
 - Total Runs: 4423
 - Average Strike Rate: 126.59
 - Runs Per Ball: 1.27
-(The dataset contain ipl 2008 to 2017 data so the data may be innacurate according to todays time)
+- (The dataset contain ipl 2008 to 2017 data so the data may be innacurate according to todays time)
 ![alt text](visuals/image.png)
 
 ## Project Created By
 
-Madhav saklani 
-BSC computer science 
-University Of Delhi 
+- Madhav saklani 
+- BSC computer science 
+- University Of Delhi 
 
